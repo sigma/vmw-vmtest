@@ -1,0 +1,4 @@
+Small container to diagnostic what (if any) flavor of VMware platform you're
+currently running on.
+
+Meant mostly as a demo of the github.com/sigma/vmw-guestinfo package
